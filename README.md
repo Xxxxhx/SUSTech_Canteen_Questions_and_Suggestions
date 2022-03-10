@@ -175,6 +175,8 @@
 
 ![](./figure/淋巴肉1.jpg)![](./figure/淋巴肉2.jpg)![](./figure/淋巴肉3.jpg)![](./figure/淋巴肉4.jpg)
 
+水煮肉片里的肉
 
+![](./figure/水煮肉片1.jpg)![](./figure/水煮肉片2.jpg)
 
 
